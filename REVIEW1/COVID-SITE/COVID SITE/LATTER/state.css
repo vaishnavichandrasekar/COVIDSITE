@@ -1,0 +1,13 @@
+table, th {
+    border: 1px solid rgb(29, 29, 36);
+    border-collapse: collapse;
+    color: rgb(14, 3, 97);
+}
+.a{background-image: url(../c5.jpg);
+    background-size: cover;
+}
+h1{
+    margin-left: 360px;
+    margin-top: 20px;
+}
+th:hover{background-color: rgb(247, 169, 80);}
